@@ -8,32 +8,32 @@ const Doctores = () => {
 
     const data = [
       {
-        img: "/src/assets/img/DocJenner.jpeg",
+        img: "assets/img/DocJenner.jpeg",
         name: "Dra. Kris Jenner",
         especialidad: "Pediatría",
       },
       {
-        img: "/src/assets/img/DocKardashian.jpeg",
+        img: "assets/img/DocKardashian.jpeg",
         name: "Dra. Kim Kardashian",
         especialidad: "Cardióloga",
       },
       {
-        img: "/src/assets/img/DocNavas.jpeg",
+        img: "assets/img/DocNavas.jpeg",
         name: "Dr. Keylor Antonio Navas",
         especialidad: "Ortopedista",
       },
       {
-        img: "/src/assets/img/DocPascal.jpeg",
+        img: "assets/img/DocPascal.jpeg",
         name: "Dr. Pedro Pascal",
         especialidad: "Medicina General",
       },
       {
-        img: "/src/assets/img/DocRuiz.jpeg",
+        img: "assets/img/DocRuiz.jpeg",
         name: "Dr. Bryan Ruiz",
         especialidad: "Neumología",
       },
       {
-        img: "/src/assets/img/DocWest.jpeg",
+        img: "assets/img/DocWest.jpg",
         name: "Dr. Kanye West",
         especialidad: "Ginecología",
       },
