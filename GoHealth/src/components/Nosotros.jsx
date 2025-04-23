@@ -1,5 +1,8 @@
 import React from 'react'
-import img from "../assets/img/si.jpg"
+import img from '../assets/img/si.jpg';
+
+<img src={img} alt="..." />
+
 
 const Nosotros = () => {
   return (
